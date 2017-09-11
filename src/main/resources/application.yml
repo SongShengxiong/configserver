@@ -20,7 +20,7 @@ spring:
     config:
       server:
         git:
-          uri: http://home.tp:10080/rexsong/config-repo.git 
+          uri: http://home.tp:10080/rexsong/config-repo
           basedir: target/config
 
 ---
