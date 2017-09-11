@@ -21,7 +21,6 @@ spring:
       server:
         git:
           uri: http://home.tp:10080/rexsong/config-repo
-          basedir: target/config
 
 ---
 spring:
